@@ -1,3 +1,8 @@
+![Screenshot (710)](https://github.com/AdetayoMathew/Spotify-website/assets/106633060/97c25132-a704-4f1d-bfeb-7ddf6e15b6e2)
+
+
+
+
 # Spotify top streams 2023
 
 The Spotify Streaming Insights Dashboard is a sophisticated web application that leverages DAX, Dandeb, and HTML to provide Spotify users with an in-depth analysis of their music listening patterns. The dashboard presents a daily report featuring interactive data visualizations that reflect the user’s streaming activity.

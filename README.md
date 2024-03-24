@@ -98,8 +98,4 @@ return
     </div>
 </body>
 </html>
----
-
-You can view the interactive dashboard [here](https://app.fabric.microsoft.com/view?r=eyJrIjoiZDJhOTRkNjktYmQ1ZC00YmRkLWFlOGMtYzhmMjRkMzIxMDBlIiwidCI6IjkwMzY2M2NiLWY5NGQtNGQzZC05NWY1LTBlNzk5MDNlNjE0ZSJ9).
-
-
+You can view the interactive dashboard here.

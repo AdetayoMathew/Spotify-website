@@ -21,6 +21,8 @@ The Spotify Streaming Insights Dashboard is a sophisticated web application that
 
 The objective of the Spotify Streaming Insights Dashboard is to empower Spotify users with actionable insights into their streaming habits, enabling them to explore musical trends and gain a deeper appreciation of their personal music journey.
 
+You can view the interactive dashboard [here](https://app.fabric.microsoft.com/view?r=eyJrIjoiZDJhOTRkNjktYmQ1ZC00YmRkLWFlOGMtYzhmMjRkMzIxMDBlIiwidCI6IjkwMzY2M2NiLWY5NGQtNGQzZC05NWY1LTBlNzk5MDNlNjE0ZSJ9).
+
 ---
 
 ```dax
@@ -98,4 +100,4 @@ return
     </div>
 </body>
 </html>
-You can view the interactive dashboard here.
+
